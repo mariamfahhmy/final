@@ -1,0 +1,36 @@
+body {
+    background-color: #E6EEDA;
+    background-image: url("./images/home-page.png");
+    background-position:top;
+    background-size: auto;
+  }
+
+ 
+  
+  .topnav {
+    margin-right: 150;
+    color: #304439;
+    font-family: saira condensed;
+    font-size: 35px;}
+
+    a {
+        text-decoration: none;
+        float: right;
+        color: #304439;
+        margin-left: 100;
+        margin-top: 50;
+        text-align: center;
+        font-size: 35px;
+        font-family: saira condensed ;
+        margin-right: 30px
+    }
+
+
+    .homebtn {
+      float: left;
+      width: 145px;
+      height: 145px;
+  margin-right: 1250px;
+  margin-top: -55px;
+  
+  }

@@ -1,0 +1,146 @@
+body {
+    background-color: #E6EEDA;
+    background-image: url("./images/Art-page.png");
+    background-position:top;
+    background-size: auto;
+  }
+
+
+  a {margin-right: 30px;
+    font-size: 25px;}
+   
+   
+   
+     .topnav {
+       margin-right: 150;
+       color: #304439;
+       font-family: saira condensed;
+       font-size: 35px;}
+   
+       a {
+           text-decoration: none;
+           float: right;
+           color: #304439;
+           margin-left: 100;
+           margin-top: 50;
+           text-align: center;
+           font-size: 35px;
+           font-family: saira condensed ;
+       }
+     
+     
+    
+     
+         .column1 {
+           margin-left: 70px;
+           margin-top: 180px;
+           float: left;
+           width: 10%;
+           padding: 5px;
+           transition: 0.2s;
+       }
+       
+       .column1:hover {
+           transform: scale(1.5);
+       }
+       
+       .column2 {
+           margin-left: 70;
+           margin-top: 570px;
+           float: left;
+           width: 10%;
+           padding: 5px;
+           transition: 0.2s;
+       }
+       
+       .column2:hover {
+           transform: scale(1.5);
+       }
+       
+       .column3 {
+           margin-left: 70;
+           margin-top: 180px;
+           float: left;
+           width: 10%;
+           padding: 5px;
+           transition: 0.2s;
+       }
+       
+       .column3:hover {
+           transform: scale(1.5);
+       }
+       
+       .column4 {
+           margin-left: 70;
+           margin-top: 570px;
+           float: left;
+           width: 10%;
+           padding: 5px;
+           transition: 0.2s;
+       }
+       
+       .column4:hover {
+           transform: scale(1.5);
+       }
+       
+       .column5 {
+           margin-left: 70;
+           margin-top: 180px;
+           float: left;
+           width: 10%;
+           padding: 5px;
+           transition: 0.2s;
+       }
+       
+       .column5:hover {
+           transform: scale(1.5);
+       }
+       
+       .column6 {
+           margin-left: 70;
+           margin-top: 570px;
+           float: left;
+           width: 10%;
+           padding: 5px;
+           transition: 0.2s;
+       }
+       
+       .column6:hover {
+           transform: scale(1.5);
+       }
+       
+       .column7 {
+           margin-left: 60px;
+           margin-top: 180px;
+           float: left;
+           width: 5%;
+           padding: 5px;
+           transition: 0.2s;
+       }
+       
+       .column7:hover {
+           transform: scale(1.3);
+       }
+
+       .row {
+           content: "";
+           clear: both;
+           display: table;
+       }
+       
+       .art {
+           width: 239px;
+           height: 338px;
+       }
+
+       
+
+       .homebtn {
+        float: left;
+        width: 145px;
+        height: 145px;
+    margin-right: 1250px;
+    margin-top: -55px;
+    
+    }
+  
